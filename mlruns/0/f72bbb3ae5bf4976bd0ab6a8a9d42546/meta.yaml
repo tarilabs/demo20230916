@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mmortari/git/exercise20230916/mlruns/0/f72bbb3ae5bf4976bd0ab6a8a9d42546/artifacts
+end_time: 1694886752998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f72bbb3ae5bf4976bd0ab6a8a9d42546
+run_name: sincere-robin-494
+run_uuid: f72bbb3ae5bf4976bd0ab6a8a9d42546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694886749545
+status: 3
+tags: []
+user_id: mmortari
